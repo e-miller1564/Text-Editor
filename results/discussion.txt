@@ -1,0 +1,1 @@
+	The difference in performance between my implementation of the single and triple loop algorithms proved to be significant.
